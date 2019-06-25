@@ -29,8 +29,8 @@ export const robots = [
     },
     {
         id: 5,
-        name: 'Mark Jones',
-        username: 'Kamren',
+        name: 'Joshua Helewud,
+        username: 'Bald_kamren',
         phone: '+234 32323238',
         email: 'Lucio_Hettinger@annie.ca'
     },
