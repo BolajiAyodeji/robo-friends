@@ -1,7 +1,7 @@
 export const robots = [
     {
         id: 1,
-        name: 'Lekan Ibrahim',
+        name: 'Bolaji Ayodeji',
         username: 'Bret',
         phone: '+234 122422408',
         email: 'Sincere@april.biz'
@@ -15,7 +15,7 @@ export const robots = [
     },
     {
         id: 3,
-        name: 'Bolaji Ayodeji',
+        name: 'Lekan Ibrahim',
         username: 'Samantha',
         phone: '+234 433408',
         email: 'Nathan@yesenia.net'
@@ -65,7 +65,7 @@ export const robots = [
     {
         id: 10,
         name: 'Clementina DuBuque',
-        username: 'Moriah.Stanton',
+        username: 'Largo.Stanton',
         phone: '+234 1231324408',
         email: 'Rey.Padberg@karina.biz'
     },
