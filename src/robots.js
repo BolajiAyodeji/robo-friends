@@ -1,31 +1,31 @@
 export const robots = [
     {
       id: 1,
-      name: 'Leanne Graham',
+      name: 'Lekan Ibrahim',
       username: 'Bret',
       email: 'Sincere@april.biz'
     },
     {
       id: 2,
-      name: 'Ervin Howell',
+      name: 'Seun Daramola',
       username: 'Antonette',
       email: 'Shanna@melissa.tv'
     },
     {
       id: 3,
-      name: 'Clementine Bauch',
+      name: 'Bolaji Ayodeji',
       username: 'Samantha',
       email: 'Nathan@yesenia.net'
     },
     {
       id: 4,
-      name: 'Patricia Lebsack',
+      name: 'Perruzzi James',
       username: 'Karianne',
       email: 'Julianne.OConner@kory.org'
     },
     {
       id: 5,
-      name: 'Chelsey Dietrich',
+      name: 'Mark Jones',
       username: 'Kamren',
       email: 'Lucio_Hettinger@annie.ca'
     },
